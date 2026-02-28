@@ -1,4 +1,4 @@
-
+/*Creted from scratch the ultimate version of 4 leged 12 dof spider robot developed by Sanyaroop */
 
 
 #include <Servo.h>
